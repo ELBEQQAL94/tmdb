@@ -21,7 +21,7 @@ https://developers.themoviedb.org/3
         * Most Popular Movies
     * [ ] Tv Shows
         * Most Popluar Tv Shows
-* [ ] Create Logo
+* [x] Create Logo
 * [ ] Create Landing Page
     * About The App
 * [ ] GET data API from (https://www.themoviedb.org/documentation/api)
