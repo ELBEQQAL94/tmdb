@@ -25,9 +25,9 @@ https://developers.themoviedb.org/3
 * [x] Create Logo
 * [ ] Create Landing Page
     * [x] GET Top rated movies:
-        * https://api.themoviedb.org/3/movie/top_rated?api_key=<api_key>&language=en-US&page=1
+        * https://api.themoviedb.org/3/movie/top_rated?api_key=api_key&language=en-US&page=1
     * [x] GET Top rated tv shows:
-        * https://api.themoviedb.org/3/tv/top_rated?api_key=<api_key>&language=en-US&page=1
+        * https://api.themoviedb.org/3/tv/top_rated?api_key=api_key&language=en-US&page=1
     * [ ] Movies
         * Top Rated
             * Each movie related to details page
