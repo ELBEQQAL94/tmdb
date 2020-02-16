@@ -17,13 +17,26 @@ https://developers.themoviedb.org/3
 * [x] Install raectstrap CSS framework
 * [x] Install Dependencies
 * [ ] Create Menu
+    * [ ] Add movie icon, tv shows icon
     * [ ] Movies
         * Most Popular Movies
     * [ ] Tv Shows
         * Most Popluar Tv Shows
 * [x] Create Logo
 * [ ] Create Landing Page
-    * About The App
+    * [x] GET Top rated movies:
+        * https://api.themoviedb.org/3/movie/top_rated?api_key=<api_key>&language=en-US&page=1
+    * [x] GET Top rated tv shows:
+        * https://api.themoviedb.org/3/tv/top_rated?api_key=<api_key>&language=en-US&page=1
+    * [ ] Movies
+        * Top Rated
+            * Each movie related to details page
+        * View All
+    * [ ] Tv Shows
+        * Top Rated
+            * Each tv show related to details page
+        * View All
+* [ ] Create Footer
 * [ ] GET data API from (https://www.themoviedb.org/documentation/api)
 * [ ] Display a list of popular media(Tv or Movies)
 * [ ] Create link direct to details for each item
