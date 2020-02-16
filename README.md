@@ -7,9 +7,9 @@ The movie database provides an open API allowing users to explore their entire c
 
 https://developers.themoviedb.org/3
 
-* GET popular movies: https://api.themoviedb.org/3/movie/popular?api_key=cd5538bcc142e951c228ff5228bde1e8&language=en-US&page=1
+* GET popular movies: https://api.themoviedb.org/3/movie/popular?api_key=<api_key>&language=en-US&page=1
 
-* GET popular Tv Shows: https://api.themoviedb.org/3/tv/popular?api_key=cd5538bcc142e951c228ff5228bde1e8&language=en-US&page=1
+* GET popular Tv Shows: https://api.themoviedb.org/3/tv/popular?api_key=<api_key>&language=en-US&page=1
 
 * GET image https://image.tmdb.org/t/p/w185/ekP6EVxL81lZ4ivcqPsoZ72rY0h.jpg
 
@@ -25,9 +25,9 @@ https://developers.themoviedb.org/3
 * [x] Create Logo
 * [ ] Create Landing Page
     * [x] GET Top rated movies:
-        * https://api.themoviedb.org/3/movie/top_rated?api_key=api_key&language=en-US&page=1
+        * https://api.themoviedb.org/3/movie/top_rated?api_key=<api_key>&language=en-US&page=1
     * [x] GET Top rated tv shows:
-        * https://api.themoviedb.org/3/tv/top_rated?api_key=api_key&language=en-US&page=1
+        * https://api.themoviedb.org/3/tv/top_rated?api_key=<api_key>&language=en-US&page=1
     * [ ] Movies
         * Top Rated
             * Each movie related to details page
