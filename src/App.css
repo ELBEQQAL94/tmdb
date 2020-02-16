@@ -1,0 +1,61 @@
+/* @fonts */
+@import url('https://fonts.googleapis.com/css?family=Tomorrow&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    background: black;
+}
+
+a {
+    text-decoration:none !important;
+    color: #ffffff
+}
+
+header {
+    background: #121212;
+    padding: 1vmin;
+    color: #ffffff !important;
+}
+
+.navbar-toggler {
+    background: black;
+}
+
+/* Nav Item */
+.nav-item {
+    margin: 5vmin;
+    padding: 0 2vmin;
+    font-size: 4vmin;
+    text-transform: capitalize;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.nav-item a {
+    transition: all .5s linear;
+    padding-bottom: 10px; 
+}
+
+.nav-item a:hover {
+    color: #0a581b;
+    border-bottom: 2px solid #0a581bb6;
+}
+
+/* BRAND */
+.brand {
+    text-transform: uppercase;
+    font-size: 5vmin;
+    font-family: 'Tomorrow', sans-serif;
+    color: #0a581b;
+    border: 1px solid black;
+    background: rgb(32, 32, 19);
+    padding: 2vmin;
+    border-radius: 20px;
+}
+
+/* Active Link */
